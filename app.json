@@ -1,0 +1,11 @@
+{ "name": "Telegram Fun Bot", 
+ "description": " A Telegram Bot For Smile",
+ "repository": "https://github.com/Makan20/kengqalbi",
+ "env": {
+ "BOT_TOKEN": 
+{"description":"Get This Value from https://telegram.dog/BotFather",
+ "value": ""}
+},
+ "buildpacks":
+ [{ "url": "heroku/python" } ]
+ }
