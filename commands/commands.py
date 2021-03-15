@@ -6,7 +6,7 @@ from config import Config
 #Inline Keyboard Button
 keyboard = [
 [
- InlineKeyboardButton("Like it 馃拹 ",url="https://t.me/PoonyoBot")
+ InlineKeyboardButton("Like it 💐 ",url="https://t.me/PoonyoBot")
 ]
 ]
 
